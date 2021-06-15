@@ -1,0 +1,11 @@
+Lisez-moi :
+
+Pour adapter le script à vos besoin  :
+
+1) ouvrir le fichier Config.php , ce fichier contient la pluparts des fonctions qui gérent le traitement des données .
+
+2) Modifier la ligne 45 : Spécifier votre hostname , nomUilisateur , mot de passe 
+
+
+// Powered by : AbainouSoft
+ 
